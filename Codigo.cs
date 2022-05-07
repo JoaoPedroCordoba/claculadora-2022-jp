@@ -66,7 +66,7 @@ public static void CalcularMultiplicacao()
     return;
 }
 
-public static void CalcularDivisao()
+public static void  CalcularDivisao()
 {
     double a, b, resultado;
 
